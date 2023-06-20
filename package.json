@@ -1,0 +1,26 @@
+{
+  "name": "entry-pass-management-system",
+  "version": "1.0.0",
+  "description": "node-assignment",
+  "main": "nodemon index.js",
+  "scripts": {
+    "test": "Welcome to PMS",
+    "start": "nodemon server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "NodeTraining"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "express": "^4.18.2",
+    "joi": "^17.9.2",
+    "mysql2": "^3.3.4",
+    "sequelize": "^6.32.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.22"
+  }
+}
